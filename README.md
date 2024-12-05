@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **prathmeshvairale17@gmail.com**
 
+- 😄 Pronouns: **He/Him**
+
+- ⚡ Fun fact **I love drawing anime characters in my free time—it’s my favorite way to unwind and be creative**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://codepen.io/prathmesh-vairale" target="blank"><img align="center"
@@ -44,7 +48,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
---Programming Languages
+Programming Languages
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -55,7 +59,7 @@ Here are some ideas to get you started:
             alt="python" width="40" height="40" /> </a>
 </p>
 
---Machine Learnining Languages
+Machine Learnining Languages
 <p align="left">
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
@@ -69,12 +73,16 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
+    </a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
     </a>
+
+    
 
 
 </p>
 
---Database
+Database
 <p align="left">
 
 
@@ -86,15 +94,15 @@ Here are some ideas to get you started:
 
 </p>
 
---Other Skills
+Other Skills
 
 <p align="left">
 
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask"
+            src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"
+            alt="bootstrap" width="40" height="40" /> </a><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img style="color:white"
+            src="https://github.com/prathmesh-27/prathmesh-27/blob/main/flak.jpg" alt="flask"
             width="40" height="40" /> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img
